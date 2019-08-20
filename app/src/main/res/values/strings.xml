@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Xiaomeng</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="register">注册校盟</string>
+    <string name="login">登录</string>
+    <string name="inputPassword">输入密码</string>
+    <string name="inputPhoneNumber">输入手机号</string>
+    <string name="no_network">当前网络不可用，请检查你的网络！</string>
+    <string name="account_cannot_empty">用户名不能为空！</string>
+    <string name="password_cannot_empty">密码不能为空！</string>
+    <string name="no_newMsg">暂时没有新消息</string>
+    <string name="nearMeng">附近的盟</string>
+    <string name="nearQuan">附近的透明圈</string>
+    <string name="my_posts">相册</string>
+    <string name="me_setting">设置</string>
+    <string name="aboutUs">关于我们</string>
+    <string name="myLike">我的关注</string>
+    <string name="appName">校盟</string>
+    <string name="create_meng">创建盟</string>
+    <string name="xiaomeng_id">校盟账号</string>
+</resources>
